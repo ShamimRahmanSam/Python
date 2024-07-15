@@ -1,4 +1,4 @@
-print("Yo Bro! Python Niye Korrah Khela Hobe!!")
+print("Yo Man!!")
 
 
 ''' 
@@ -10,20 +10,20 @@ for extra good revision of python -- link -- https://www.tutorialspoint.com/pyth
 '''
 Python is a high-level, interpreted, interactive and object-oriented scripting language. Python is designed to be highly readable. It uses English keywords frequently where as other languages use punctuation, and it has fewer syntactical constructions than other languages.
 
-Python is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning Python:
+Python is a MUST for students and working professionals to become a great Software Engineer especially when they are working in Web Development Domain. I will list down some of the key advantages of learning Python:
 
 Python is Interpreted − Python is processed at runtime by the interpreter. You do not need to compile your program before executing it. This is similar to PERL and PHP.
 
-Python is Interactive − You can actually sit at a Python prompt and interact with the interpreter directly to write your programs.
+Python is Interactive − You can sit at a Python prompt and interact with the interpreter directly to write your programs.
 
-Python is Object-Oriented − Python supports Object-Oriented style or technique of programming that encapsulates code within objects.
+Python is Object-Oriented − Python supports an Object-Oriented style or technique of programming that encapsulates code within objects.
 
-Python is a Beginner's Language − Python is a great language for the beginner-level programmers and supports the development of a wide range of applications from simple text processing to WWW browsers to games.
-
-
+Python is a Beginner's Language − Python is a great language for beginner-level programmers and supports the development of a wide range of applications from simple text processing to WWW browsers to games.
 
 
-Following are important characteristics of python −
+
+
+Following are important characteristics of Python −
 
 It supports functional and structured programming methods as well as OOP.
 
@@ -40,9 +40,9 @@ It can be easily integrated with C, C++, COM, ActiveX, CORBA, and Java.
 
 
 Applications of Python
-As mentioned before, Python is one of the most widely used language over the web. I'm going to list few of them here:
+As mentioned before, Python is one of the most widely used languages on the web. I'm going to list a few of them here:
 
-Easy-to-learn − Python has few keywords, simple structure, and a clearly defined syntax. This allows the student to pick up the language quickly.
+Easy-to-learn − Python has few keywords, a simple structure, and a clearly defined syntax. This allows the student to pick up the language quickly.
 
 Easy-to-read − Python code is more clearly defined and visible to the eyes.
 
